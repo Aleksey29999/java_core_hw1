@@ -1,0 +1,8 @@
+
+hellow.txt
+Text{text='Hello world!'}Wed Oct 11 20:20:54 MSK 2023
+Text{text='Hello world!'}Wed Oct 11 20:21:27 MSK 2023
+Text{text='Hello world!'}Wed Oct 11 20:22:00 MSK 2023
+
+Text{text='Hello world!'}Wed Oct 11 20:22:25 MSK 2023
+Text{text='Hello world!'}Wed Oct 11 20:22:44 MSK 2023
